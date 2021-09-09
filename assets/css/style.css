@@ -1,0 +1,22 @@
+.nav-background {
+    background: linear-gradient(90deg, rgba(12,72,112,1) 28%, rgba(61,0,255,1) 52%, rgba(83,29,255,1) 82%);
+
+}
+.submit {
+    width: 100%;
+    font-size:medium;
+    font-weight: 300;
+}
+
+.safe {
+    background-color: green;
+    color: white;
+}
+.unsafe {
+    background-color: rgb(152, 152, 14);
+    color: white;
+}
+.dangerous {
+    background-color: rgb(147, 3, 3);
+    color: white;
+}
