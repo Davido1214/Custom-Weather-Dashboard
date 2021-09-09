@@ -7,7 +7,7 @@ The purpose of this web app is to be able to pull data from any city around the 
 This web app was built using html, css, js, bootstrap, and jquery
 
 ## Webpage Link 
-
+https://davido1214.github.io/Custom-Weather-Dashboard/
 
 ## Webpage Preview 
 ![screenshot] (./assets/images/preview.png)
