@@ -10,4 +10,4 @@ This web app was built using html, css, js, bootstrap, and jquery
 https://davido1214.github.io/Custom-Weather-Dashboard/
 
 ## Webpage Preview 
-![screenshot] (./assets/images/preview.png)
+![screenshot](./assets/images/preview.png)
